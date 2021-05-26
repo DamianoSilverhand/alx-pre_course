@@ -1,3 +1,3 @@
 ## ALX PRECOURSE PROJECT
 
-  Basic Git cmomands intro
+  Basic Git commands intro
